@@ -1,2 +1,2 @@
 # Tribute-
-This Tribute code is for practice purpose.
+Html and CSS practice project no. 1.
